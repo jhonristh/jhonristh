@@ -8,39 +8,25 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonristh&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dark_lover)
 
-### 🎮 Hobbies
-- Coding fun side projects
-- Building with Habboy
-- Collecting badges
-- Retro gaming
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jhonristh&style=flat-square)
-
 
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=600&lines=Hey!+I'm+Jhon+Rey+%F0%9F%91%8B;I+love+coding+and+building+cool+stuff!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
----
-
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/jhonristh/jhonristh/main/assets/banner.gif)
 
 ---
 
 ### 🧩 About Me
-💻 Passionate **developer** who loves creating, breaking, and fixing code.  
-🎮 Big **Minecraft** and **retro gaming** fan.  
-⚡ Always learning new tech, from circuits to code.  
-
+__
+__
+__
 ---
 
 ### 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

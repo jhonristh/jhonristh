@@ -6,8 +6,15 @@
 </picture>
 
 
+### 🏆 GitHub Highlights
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonristh&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dark_lover)
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonristh&theme=dark&border_radius=5)
+
+---
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jhonristh&style=flat-square)
@@ -33,53 +40,23 @@ __
 
 ---
 
-### 🏆 GitHub Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonristh&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dark_lover)
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonristh&theme=dark&border_radius=5)
-
----
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonristh/jhonristh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonristh/jhonristh/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/jhonristh/jhonristh/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 🧠 Fun Section
-> “It works on my machine.” — every developer ever 😅  
+### 🧠
+> “It works on my machine.” 
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
 <img src="https://media.giphy.com/media/f7y4kWzDbb0p0/giphy.gif" width="400"/>
 
----
-
-### 🎮 Hobbies
-- Coding fun side projects
-- Building with **Habboy**
-- Collecting cool badges 🪙
-- Retro + **Minecraft** gaming 🧱
 
 ---
 
-### 🧱 MINECRAFT ZONE
+###  Featured Projects
+- 
 
 
 ---
 
-### 🚀 Featured Projects
-- 💡 [TRIHALOCEN Photobioreactor Simulation](https://github.com/jhonristh/TRIHALOCEN)
-- 🎮 [DiscClips – Minecraft PvP Highlights](https://youtube.com/@DiscClips)
-- 🧠 [Portfolio Website](https://jhonristh.github.io)
-
----
-
-### 😂 Random Dev Joke
+### Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ---
@@ -104,6 +81,6 @@ __
 ██╔══██║██║░░██║██╗░░██╗░░██║
 ██║░░██║╚█████╔╝╚██████╔╝███║
 ╚═╝░░╚═╝░╚════╝░░╚═════╝░╚══╝  
-──── ✦  ✦ ────
+──────────── ✦  ✦ ────────────
 
 

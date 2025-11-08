@@ -45,7 +45,6 @@ __
 > “It works on my machine.” 
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
-<img src="https://media.giphy.com/media/f7y4kWzDbb0p0/giphy.gif" width="400"/>
 
 
 ---
@@ -56,8 +55,6 @@ __
 
 ---
 
-### Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ---
 
@@ -81,6 +78,6 @@ __
 ██╔══██║██║░░██║██╗░░██╗░░██║
 ██║░░██║╚█████╔╝╚██████╔╝███║
 ╚═╝░░╚═╝░╚════╝░░╚═════╝░╚══╝  
-──────────── ✦  ✦ ────────────
+──────────────────────────────────── ✦  ✦ ────────────────────────────────────
 
 

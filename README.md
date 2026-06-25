@@ -2,7 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonristh&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dark_lover)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhonristh&theme=dark&border_radius=5)
 
 ---

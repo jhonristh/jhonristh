@@ -12,17 +12,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=jhonristh&style=flat-square)
 
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=600&lines=Hey!+I'm+Jhon+Rey+%F0%9F%91%8B;I+love+coding+and+building+cool+stuff!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 ---
 
-### 🧩 About Me
-__
-__
-__
----
 
 ### 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,14 +34,6 @@ __
 
 ---
 
-###  Featured Projects
-- 
-
-
----
-
-
----
 
 ### 📫 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourcode)
@@ -63,13 +48,5 @@ __
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </details>
 
----
-██╗░░██╗░█████╗░░░░░░░░░░░██╗
-██║░░██║██╔══██╗░░░░░░░░░░██║
-███████║██║░░██║░░░░░░░░░░██║
-██╔══██║██║░░██║██╗░░██╗░░██║
-██║░░██║╚█████╔╝╚██████╔╝███║
-╚═╝░░╚═╝░╚════╝░░╚═════╝░╚══╝  
-──────────────────────────────────── ✦  ✦ ────────────────────────────────────
 
 

@@ -1,11 +1,13 @@
 # Hi, I'm Jargon 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Space+Electronics+%7C+Aspiring+NASA%2FPhilSA+Engineer;Writer+%26+Journalist;Building+circuits+and+sentences)](https://git.io/typing-svg)
+
 ⚡ Electronics Engineering student focused on **space electronics** | Aspiring NASA / PhilSA engineer
 ✍️ Writer & journalist on the side | Building things that live somewhere between circuits and sentences
 
 ---
 
-### 🔩 EE Background
+### 🔩 ECE Background
 
 Coursework spans physics, calculus, material science, basic electronics, computer-aided drafting, and circuit theory — benchmarked against standard references like Young & Freedman, Boylestad, and Callister. My interests sit at the intersection of embedded systems, signal processing, and the kind of hardware that eventually has to survive being launched into space.
 
@@ -42,6 +44,27 @@ Outside the classroom, that background feeds into hardware-adjacent side project
 
 ---
 
+### 🐍 Snake Eating My Contributions
+
+<!-- Requires a one-time setup: add the Platane/snk GitHub Action to a workflow file
+     in this repo (github.com/Platane/snk). It generates the SVG below on a schedule. -->
+![snake gif](https://raw.githubusercontent.com/jhonristh/jhonristh/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🏆 Trophy Case
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dracula&row=1&column=6)
+
+---
+
+### 💬 Random Dev Quote
+
+<!-- Refreshes on every README render -->
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ### 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -66,4 +89,12 @@ Outside the classroom, that background feeds into hardware-adjacent side project
   <summary>🐍 Click for a hidden meme</summary>
 
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</details>
+
+<details>
+  <summary>🎮 Click here (secret mini-game)</summary>
+
+  <!-- Optional: host a small playable game (Tetris/Snake) via GitHub Pages
+       and link it here, e.g. https://jhonristh.github.io/mini-game -->
+  Nothing here yet — this is a placeholder for a playable Tetris/Snake game hosted on GitHub Pages. Link it here once it's up!
 </details>

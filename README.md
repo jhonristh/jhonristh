@@ -22,14 +22,14 @@
 ══════════════════════════════════════════════════
 ```
 
-| FIELD           | VALUE                                                      |
-| --------------- | ----------------------------------------------------------- |
-| Commander       | Jargon                                                       |
-| Mission         | Expand Human Intelligence through Engineering + Writing      |
-| Current Sector  | Electronics Engineering — Space Systems Track                |
-| Launch Year     | 2026                                                          |
-| Mission Time    | T+ ongoing                                                   |
-| System Status   | 🟢 ONLINE                                                    |
+| FIELD          | VALUE                                                   |
+| -------------- | ------------------------------------------------------- |
+| Commander      | Jargon                                                  |
+| Mission        | Expand Human Intelligence through Engineering + Writing |
+| Current Sector | Electronics Engineering — Space Systems Track           |
+| Launch Year    | 2026                                                    |
+| Mission Time   | T+ ongoing                                              |
+| System Status  | 🟢 ONLINE                                               |
 
 ```text
 ══════════════════════════════════════════════════
@@ -47,13 +47,13 @@
 
 Every repository is a body in orbit — inner orbits move fastest, outer orbits are the long-burn research.
 
-| Orbit           | Body                    | Repository                             | Class                            |
-| --------------- | ----------------------- | --------------------------------------- | --------------------------------- |
-| 1 (innermost)   | 🖼 I-ASCII              | PNG → ASCII art converter               | Signal Relay                      |
-| 2               | 🚌 BUSINA               | Jeepney fleet intelligence PWA          | Flight Computer — active build    |
-| 3               | 📘 ECE Basics Companion | Interactive ECE review modules          | Knowledge Archive                 |
-| 4               | 🧠 RelAI                | AI notification & attention platform    | AI Core                           |
-| 5 (outermost)   | 🧫 TRIHALOCEN           | Triple-concentric photobioreactor       | Research Laboratory               |
+| Orbit         | Body                    | Repository                           | Class                          |
+| ------------- | ----------------------- | ------------------------------------ | ------------------------------ |
+| 1 (innermost) | 🖼 I-ASCII              | PNG → ASCII art converter            | Signal Relay                   |
+| 2             | 🚌 BUSINA               | Jeepney fleet intelligence PWA       | Flight Computer — active build |
+| 3             | 📘 ECE Basics Companion | Interactive ECE review modules       | Knowledge Archive              |
+| 4             | 🧠 RelAI                | AI notification & attention platform | AI Core                        |
+| 5 (outermost) | 🧫 TRIHALOCEN           | Triple-concentric photobioreactor    | Research Laboratory            |
 
 ---
 
@@ -67,15 +67,56 @@ Every repository is a body in orbit — inner orbits move fastest, outer orbits 
 
 ---
 
+## 📊 Mission Dashboard
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```text
+MISSION STATUS
+────────────────────────────────────
+Commander          Jargon
+Current Sector      Electronics Engineering —
+                     Space Systems Track
+Mission Time         T+ ongoing
+Repositories         5 tracked
+Active Projects      5
+System Health        NOMINAL
+────────────────────────────────────
+CURRENT OBJECTIVE
+  Advance toward Space Electronics —
+  target: NASA / PhilSA engineering track
+
+CURRENT LEARNING
+  Circuit Theory · Space Electronics ·
+  Physics · Calculus · Material Science
+
+OVERALL PROGRESS
+  ███████░░░  70%
+────────────────────────────────────
+```
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="assets/radar.svg" width="220" alt="radar sweep — scanning for signals" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Current Missions
 
-| Mission               | Status       | Progress          | Objective                             | Destination                  |
-| --------------------- | ------------ | ------------------ | --------------------------------------- | ------------------------------ |
-| BUSINA                | 🟢 Active    | ████████░░ 80%    | Fleet intelligence frontend             | `/BUSINA`                    |
-| RelAI                 | 🟡 Building  | ███████░░░ 70%    | Unified AI notification layer           | `/RelAI`                     |
-| TRIHALOCEN            | 🟡 Research  | █████░░░░░ 50%    | Uniform light-thermal photobioreactor   | `/TRIHALOCEN`                |
-| ECE Basics Companion  | 🟢 Active    | ██████░░░░ 60%    | Interactive ECE review modules          | `/ece-basics-companion`      |
-| I-ASCII               | 🟢 Active    | ████████░░ 80%    | PNG-to-ASCII converter, web + desktop   | `/I-ASCII`                   |
+| Mission              | Status      | Progress       | Objective                             | Destination             |
+| -------------------- | ----------- | -------------- | ------------------------------------- | ----------------------- |
+| BUSINA               | 🟢 Active   | ████████░░ 80% | Fleet intelligence frontend           | `/BUSINA`               |
+| RelAI                | 🟡 Building | ███████░░░ 70% | Unified AI notification layer         | `/RelAI`                |
+| TRIHALOCEN           | 🟡 Research | █████░░░░░ 50% | Uniform light-thermal photobioreactor | `/TRIHALOCEN`           |
+| ECE Basics Companion | 🟢 Active   | ██████░░░░ 60% | Interactive ECE review modules        | `/ece-basics-companion` |
+| I-ASCII              | 🟢 Active   | ████████░░ 80% | PNG-to-ASCII converter, web + desktop | `/I-ASCII`              |
 
 ---
 
@@ -246,6 +287,6 @@ C:\JAN-OS> _
 
 <div align="center">
 
-*"The journey has only begun."*
+_"The journey has only begun."_
 
 </div>

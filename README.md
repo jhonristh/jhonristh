@@ -55,14 +55,6 @@ Outside the classroom, that background feeds into hardware-adjacent side project
 
 ---
 
-### 🐍 Snake Eating My Contributions
-
-<!-- Requires a one-time setup: add the Platane/snk GitHub Action to a workflow file
-     in this repo (github.com/Platane/snk). It generates the SVG below on a schedule. -->
-![snake gif](https://raw.githubusercontent.com/jhonristh/jhonristh/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🏆 Trophy Case
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jhonristh&theme=dracula&row=1&column=6)
@@ -113,8 +105,8 @@ Outside the classroom, that background feeds into hardware-adjacent side project
 
 <!-- fill these in with your real profile links -->
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourcode)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sint.jhon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-rey-oquendo-105504370/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
 

@@ -1,0 +1,32 @@
+name: Update Commit Orbit Map
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+
+jobs:
+  update-orbit-map:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Commit Orbit Map
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_commit_orbit.py
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "jan-os-bot"
+          git config user.email "actions@github.com"
+          git add assets/commit-orbit.svg
+          git diff --staged --quiet || git commit -m "chore: refresh commit orbit map"
+          git push

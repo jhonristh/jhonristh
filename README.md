@@ -254,13 +254,16 @@ NEXT SECTORS
 <td valign="top" width="85%">
 
 ```text
-> INCOMING TRANSMISSION
+> TRANSMISSION LOG
 
-  Commander, all systems nominal.
-  Five active repositories detected in orbit.
-  Knowledge archive expanding.
-  Recommend continued approach toward
-  Space Electronics sector.
+[T+0000] Boot complete. Commander authenticated.
+[T+0012] BUSINA flight computer — nominal, 80% burn.
+[T+0034] RelAI AI Core — dedup pipelines stable, 70% burn.
+[T+0051] TRIHALOCEN — research phase ongoing, 50% burn.
+[T+0077] Knowledge Archive syncing — ECE Basics Companion, 60% burn.
+[T+0090] Signal Relay online — I-ASCII, 80% burn.
+[T+0104] Recommend continued approach toward
+         Space Electronics sector.
 
   — JAN-OS
 ```

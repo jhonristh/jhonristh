@@ -7,7 +7,18 @@
 
 ---
 
-### 🔩 ECE Background
+### 📊 Activity Showcase
+
+<!-- Note: the custom "line graph + streak counter" widget style (seen in some
+     profile READMEs) reads from a third-party API that frequently misreports
+     stats — e.g. showing "Current Streak: 0" even mid-streak. Using the
+     well-maintained activity-graph project below instead, since it pulls
+     directly from GitHub's contribution data and stays accurate. -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhonristh&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🔩 EE Background
 
 Coursework spans physics, calculus, material science, basic electronics, computer-aided drafting, and circuit theory — benchmarked against standard references like Young & Freedman, Boylestad, and Callister. My interests sit at the intersection of embedded systems, signal processing, and the kind of hardware that eventually has to survive being launched into space.
 
@@ -65,11 +76,33 @@ Outside the classroom, that background feeds into hardware-adjacent side project
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Hardware & EE Tools**
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Multisim](https://img.shields.io/badge/Multisim-00A19C?style=for-the-badge)
+
+**Dev Tools & Environment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -80,8 +113,8 @@ Outside the classroom, that background feeds into hardware-adjacent side project
 
 <!-- fill these in with your real profile links -->
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourcode)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sint.jhon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-rey-oquendo-105504370/)
 
 ---
 

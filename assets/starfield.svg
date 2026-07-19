@@ -28,6 +28,10 @@
       12% { opacity: 0; transform: translate(160px, 60px); }
       100% { opacity: 0; }
     }
+    @media (prefers-reduced-motion: reduce) {
+      .star, .star2 { animation: none; opacity: 0.7; }
+      .shoot { animation: none; opacity: 0; }
+    }
   </style>
   <rect class="bg" width="900" height="160"/>
   <rect width="900" height="160" fill="url(#nebula1)"/>

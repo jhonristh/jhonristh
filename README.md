@@ -1,3 +1,5 @@
+# JAN-OS
+
 <div align="center">
 
 <img src="assets/starfield.svg" width="100%" alt="deep space banner" />
@@ -14,22 +16,22 @@
 
 <div align="center">
 
-```
+```text
 ══════════════════════════════════════════════════
              S T A R S H I P   J A N - 0 1
 ══════════════════════════════════════════════════
 ```
 
-| FIELD          | VALUE                                                   |
-| -------------- | ------------------------------------------------------- |
-| Commander      | Jargon                                                  |
-| Mission        | Expand Human Intelligence through Engineering + Writing |
-| Current Sector | Electronics Engineering — Space Systems Track           |
-| Launch Year    | 2026                                                    |
-| Mission Time   | T+ ongoing                                              |
-| System Status  | 🟢 ONLINE                                               |
+| FIELD           | VALUE                                                      |
+| --------------- | ----------------------------------------------------------- |
+| Commander       | Jargon                                                       |
+| Mission         | Expand Human Intelligence through Engineering + Writing      |
+| Current Sector  | Electronics Engineering — Space Systems Track                |
+| Launch Year     | 2026                                                          |
+| Mission Time    | T+ ongoing                                                   |
+| System Status   | 🟢 ONLINE                                                    |
 
-```
+```text
 ══════════════════════════════════════════════════
 ```
 
@@ -45,13 +47,13 @@
 
 Every repository is a body in orbit — inner orbits move fastest, outer orbits are the long-burn research.
 
-| Orbit         | Body                    | Repository                           | Class                          |
-| ------------- | ----------------------- | ------------------------------------ | ------------------------------ |
-| 1 (innermost) | 🖼 I-ASCII              | PNG → ASCII art converter            | Signal Relay                   |
-| 2             | 🚌 BUSINA               | Jeepney fleet intelligence PWA       | Flight Computer — active build |
-| 3             | 📘 ECE Basics Companion | Interactive ECE review modules       | Knowledge Archive              |
-| 4             | 🧠 RelAI                | AI notification & attention platform | AI Core                        |
-| 5 (outermost) | 🧫 TRIHALOCEN           | Triple-concentric photobioreactor    | Research Laboratory            |
+| Orbit           | Body                    | Repository                             | Class                            |
+| --------------- | ----------------------- | --------------------------------------- | --------------------------------- |
+| 1 (innermost)   | 🖼 I-ASCII              | PNG → ASCII art converter               | Signal Relay                      |
+| 2               | 🚌 BUSINA               | Jeepney fleet intelligence PWA          | Flight Computer — active build    |
+| 3               | 📘 ECE Basics Companion | Interactive ECE review modules          | Knowledge Archive                 |
+| 4               | 🧠 RelAI                | AI notification & attention platform    | AI Core                           |
+| 5 (outermost)   | 🧫 TRIHALOCEN           | Triple-concentric photobioreactor       | Research Laboratory               |
 
 ---
 
@@ -67,36 +69,36 @@ Every repository is a body in orbit — inner orbits move fastest, outer orbits 
 
 ## 🚀 Current Missions
 
-| Mission              | Status      | Progress       | Objective                             | Destination             |
-| -------------------- | ----------- | -------------- | ------------------------------------- | ----------------------- |
-| BUSINA               | 🟢 Active   | ████████░░ 80% | Fleet intelligence frontend           | `/BUSINA`               |
-| RelAI                | 🟡 Building | ███████░░░ 70% | Unified AI notification layer         | `/RelAI`                |
-| TRIHALOCEN           | 🟡 Research | █████░░░░░ 50% | Uniform light-thermal photobioreactor | `/TRIHALOCEN`           |
-| ECE Basics Companion | 🟢 Active   | ██████░░░░ 60% | Interactive ECE review modules        | `/ece-basics-companion` |
-| I-ASCII              | 🟢 Active   | ████████░░ 80% | PNG-to-ASCII converter, web + desktop | `/I-ASCII`              |
+| Mission               | Status       | Progress          | Objective                             | Destination                  |
+| --------------------- | ------------ | ------------------ | --------------------------------------- | ------------------------------ |
+| BUSINA                | 🟢 Active    | ████████░░ 80%    | Fleet intelligence frontend             | `/BUSINA`                    |
+| RelAI                 | 🟡 Building  | ███████░░░ 70%    | Unified AI notification layer           | `/RelAI`                     |
+| TRIHALOCEN            | 🟡 Research  | █████░░░░░ 50%    | Uniform light-thermal photobioreactor   | `/TRIHALOCEN`                |
+| ECE Basics Companion  | 🟢 Active    | ██████░░░░ 60%    | Interactive ECE review modules          | `/ece-basics-companion`      |
+| I-ASCII               | 🟢 Active    | ████████░░ 80%    | PNG-to-ASCII converter, web + desktop   | `/I-ASCII`                   |
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+#### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+#### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+#### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Dev Tools & Environment**
+#### Dev Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -116,7 +118,7 @@ Coursework spans physics, calculus, material science, basic electronics, compute
 
 ## 🧩 Installed Ship Modules
 
-```
+```text
 CORE MODULES
 ────────────────────────────────────
 [✓] Navigation
@@ -149,7 +151,7 @@ CORE MODULES
 
 ## 🪵 Mission Log
 
-```
+```text
 2026
 ✓ Entered Electronics Engineering — Space Systems Track
 ✓ Built BUSINA frontend — PWA infra, design system overhaul
@@ -163,7 +165,7 @@ CORE MODULES
 
 ## 🌌 Galactic Roadmap
 
-```
+```text
 NEXT SECTORS
 ────────────────────────
 □ Embedded AI
@@ -190,7 +192,7 @@ NEXT SECTORS
 <tr>
 <td valign="top" width="15%">
 
-```
+```text
    ___
   |o_o|
   |:_/ |
@@ -203,7 +205,7 @@ NEXT SECTORS
 </td>
 <td valign="top" width="85%">
 
-```
+```text
 > INCOMING TRANSMISSION
 
   Commander, all systems nominal.
@@ -223,7 +225,7 @@ NEXT SECTORS
 
 ## 🖥 Terminal
 
-```
+```text
 C:\JAN-OS> status
 ONLINE
 
@@ -244,6 +246,6 @@ C:\JAN-OS> _
 
 <div align="center">
 
-_"The journey has only begun."_
+*"The journey has only begun."*
 
 </div>

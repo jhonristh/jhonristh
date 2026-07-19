@@ -1,0 +1,4 @@
+{
+  "//": "MD033 (no-inline-html) is intentionally disabled. This README relies on <div align=center>, <img>, <table>, and <sub> for centering, sizing, and the two-column AI Assistant layout — all of which GitHub renders fine but Markdown alone cannot express. Disabling the rule here, rather than suppressing it inline in every file, keeps the source clean.",
+  "MD033": false
+}

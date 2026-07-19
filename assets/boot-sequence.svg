@@ -31,6 +31,10 @@
     @keyframes blink {
       50% { opacity: 0; }
     }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor { animation: none; opacity: 1; }
+      .bar-fill { animation: none; stroke-dashoffset: 0; }
+    }
   </style>
   <rect class="bg" width="720" height="220" rx="10"/>
   <text x="24" y="34" class="line l1">&gt; POWER ON ................................ <tspan class="accent">OK</tspan></text>

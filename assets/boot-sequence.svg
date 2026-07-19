@@ -1,0 +1,44 @@
+<svg width="720" height="220" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #05070a; }
+    .line { font-family: 'Courier New', monospace; font-size: 15px; fill: #9fe6b0; opacity: 0; }
+    .dim { fill: #5a6b63; }
+    .accent { fill: #7fd1ff; }
+    .l1 { animation: reveal 0.4s ease forwards; animation-delay: 0.2s; }
+    .l2 { animation: reveal 0.4s ease forwards; animation-delay: 1.0s; }
+    .l3 { animation: reveal 0.4s ease forwards; animation-delay: 1.8s; }
+    .l4 { animation: reveal 0.4s ease forwards; animation-delay: 2.6s; }
+    .l5 { animation: reveal 0.4s ease forwards; animation-delay: 3.4s; }
+    .l6 { animation: reveal 0.4s ease forwards; animation-delay: 4.2s; }
+    @keyframes reveal {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .bar-track { fill: none; stroke: #24322c; stroke-width: 10; }
+    .bar-fill {
+      fill: none; stroke: #7fd1ff; stroke-width: 10; stroke-linecap: round;
+      stroke-dasharray: 480; stroke-dashoffset: 480;
+      animation: fill 3.6s ease-out forwards; animation-delay: 4.6s;
+    }
+    @keyframes fill {
+      to { stroke-dashoffset: 0; }
+    }
+    .cursor {
+      fill: #9fe6b0;
+      animation: blink 1s step-end infinite;
+      animation-delay: 8.2s;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+  <rect class="bg" width="720" height="220" rx="10"/>
+  <text x="24" y="34" class="line l1">&gt; POWER ON ................................ <tspan class="accent">OK</tspan></text>
+  <text x="24" y="60" class="line l2">&gt; LOADING NAVIGATION CORE ................. <tspan class="accent">OK</tspan></text>
+  <text x="24" y="86" class="line l3">&gt; INITIALIZING AI CORE .................... <tspan class="accent">OK</tspan></text>
+  <text x="24" y="112" class="line l4">&gt; SYNCING REPOSITORY ARRAY ................ <tspan class="accent">OK</tspan></text>
+  <text x="24" y="138" class="line l5"><tspan class="dim">&gt; MISSION CONTROL ..........................</tspan> <tspan class="accent">READY</tspan></text>
+  <text x="24" y="168" class="line l6">&gt; WELCOME, COMMANDER JARGON<tspan class="cursor">_</tspan></text>
+  <rect class="bar-track" x="24" y="188" width="480" height="10" rx="5"/>
+  <rect class="bar-fill" x="24" y="188" width="480" height="10" rx="5"/>
+</svg>

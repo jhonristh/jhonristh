@@ -1,0 +1,38 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sweepFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7fe6a0" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7fe6a0" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg { fill: #05070a; }
+    .ring { fill: none; stroke: #1c2f24; stroke-width: 1; }
+    .cross { stroke: #1c2f24; stroke-width: 1; }
+    .blip { fill: #7fe6a0; animation: blip 2.4s ease-in-out infinite; }
+    @keyframes blip {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+    .sweep { transform-origin: 110px 110px; animation: sweep 4s linear infinite; }
+    @keyframes sweep {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  </style>
+  <rect class="bg" width="220" height="220" rx="10"/>
+  <circle class="ring" cx="110" cy="110" r="90"/>
+  <circle class="ring" cx="110" cy="110" r="60"/>
+  <circle class="ring" cx="110" cy="110" r="30"/>
+  <line class="cross" x1="20" y1="110" x2="200" y2="110"/>
+  <line class="cross" x1="110" y1="20" x2="110" y2="200"/>
+
+  <path class="sweep" d="M110,110 L110,20 A90,90 0 0 1 172,45 Z" fill="url(#sweepFade)"/>
+
+  <circle class="blip" cx="150" cy="80" r="3" style="animation-delay:0.3s"/>
+  <circle class="blip" cx="75" cy="140" r="3" style="animation-delay:1s"/>
+  <circle class="blip" cx="130" cy="150" r="3" style="animation-delay:1.7s"/>
+  <circle class="blip" cx="90" cy="70" r="3" style="animation-delay:2.1s"/>
+
+  <text x="110" y="212" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#5a7a70">SCANNING FOR OPEN SOURCE SIGNALS</text>
+</svg>

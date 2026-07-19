@@ -1,0 +1,69 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffe9b0"/>
+      <stop offset="60%" stop-color="#ffb84d"/>
+      <stop offset="100%" stop-color="#ffb84d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .bg { fill: #05070a; }
+    .ring { fill: none; stroke: #1c2730; stroke-width: 1; }
+    .label { font-family: 'Courier New', monospace; font-size: 13px; fill: #9fb3ad; }
+    .sublabel { font-family: 'Courier New', monospace; font-size: 10px; fill: #5a6b63; }
+    .core { font-family: 'Courier New', monospace; font-size: 12px; fill: #ffe9b0; font-weight: bold; }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse {
+      0%, 100% { r: 26; }
+      50% { r: 30; }
+    }
+  </style>
+  <rect class="bg" width="900" height="420"/>
+
+  <!-- orbit rings -->
+  <circle class="ring" cx="450" cy="210" r="80"/>
+  <circle class="ring" cx="450" cy="210" r="140"/>
+  <circle class="ring" cx="450" cy="210" r="195"/>
+  <circle class="ring" cx="450" cy="210" r="150" opacity="0"/>
+
+  <!-- sun / core -->
+  <circle cx="450" cy="210" r="60" fill="url(#sunGlow)"/>
+  <circle class="pulse" cx="450" cy="210" r="26" fill="#ffcf7a"/>
+  <text x="450" y="214" text-anchor="middle" class="core">JAN CORE</text>
+
+  <!-- orbit 1: BUSINA -->
+  <g>
+    <circle r="7" fill="#7fd1ff">
+      <animateMotion dur="14s" repeatCount="indefinite" path="M 530,210 A 80,80 0 1 1 369,210 A 80,80 0 1 1 530,210"/>
+    </circle>
+  </g>
+  <text x="450" y="118" text-anchor="middle" class="label">🚌 BUSINA</text>
+  <text x="450" y="132" text-anchor="middle" class="sublabel">TRANSIT GRID</text>
+
+  <!-- orbit 2: RelAI -->
+  <g>
+    <circle r="8" fill="#c58bff">
+      <animateMotion dur="20s" repeatCount="indefinite" path="M 590,210 A 140,140 0 1 1 310,210 A 140,140 0 1 1 590,210"/>
+    </circle>
+  </g>
+  <text x="450" y="58" text-anchor="middle" class="label">🧠 RelAI</text>
+  <text x="450" y="72" text-anchor="middle" class="sublabel">AI CORE</text>
+
+  <!-- orbit 3: TRIHALOCEN -->
+  <g>
+    <circle r="7" fill="#7fe6a0">
+      <animateMotion dur="27s" repeatCount="indefinite" path="M 645,210 A 195,195 0 1 1 255,210 A 195,195 0 1 1 645,210"/>
+    </circle>
+  </g>
+  <text x="450" y="10" text-anchor="middle" class="label">🧫 TRIHALOCEN</text>
+  <text x="450" y="24" text-anchor="middle" class="sublabel">BIO-REACTOR LAB</text>
+
+  <!-- static outer labels for remaining modules -->
+  <text x="80" y="360" class="label">📘 ECE BASICS COMPANION</text>
+  <text x="80" y="374" class="sublabel">KNOWLEDGE ARCHIVE</text>
+
+  <text x="700" y="360" class="label">🖼 I-ASCII</text>
+  <text x="700" y="374" class="sublabel">SIGNAL RELAY</text>
+
+  <text x="450" y="404" text-anchor="middle" class="sublabel">SOLAR SYSTEM NAVIGATION — CLICK A MODULE BELOW TO ENTER ORBIT</text>
+</svg>

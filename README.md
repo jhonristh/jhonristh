@@ -1,5 +1,3 @@
-# JAN-OS
-
 <div align="center">
 
 <img src="assets/starfield.svg" width="100%" alt="deep space banner" />
@@ -297,6 +295,6 @@ C:\JAN-OS> _
 
 <div align="center">
 
-_"The journey has only begun."_
+_"The journey has only begun." or maybe_
 
 </div>

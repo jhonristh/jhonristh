@@ -89,27 +89,25 @@ MODE         continuous learning
 
 ---
 
-## 🛰 Solar System Navigation
+## 🛰 Software Mission Navigation
 
 <div align="center">
 <img src="assets/orbit-nav.svg" width="100%" alt="orbital navigation map" />
 </div>
 
-Five primary builds hold the inner orbits — the closer the orbit, the faster it moves. Smaller missions drift in the outer belt.
+Software work is ordered by product importance: flagship builds first, focused tools second, then planned navigation experiments.
 
-| Orbit         | Body                         | What it is                                      | Class                          |
-| ------------- | ---------------------------- | ----------------------------------------------- | ------------------------------ |
-| 1 (innermost) | 🖼 I-ASCII                   | PNG → ASCII art converter                       | Signal Relay                   |
-| 2             | 🚌 BUSINA                    | Jeepney fleet intelligence PWA                  | Flight Computer                |
-| 3             | 📘 ECE Basics Companion      | Interactive ECE review modules                  | Knowledge Archive              |
-| 4             | 🧠 RelAI                     | AI notification & attention platform            | AI Core                        |
-| 5 (outermost) | 🧫 TRIHALOCEN                | Triple-concentric photobioreactor               | Research Laboratory            |
-| Belt          | 📻 AM Receiver               | Transistor AM radio, from simulation to PCB     | Engineering Bay                |
-| Belt          | 📄 ESG PDF Scorer            | Auto-scores company PDFs against the ESG/SDG rubric | Engineering Bay            |
-| Belt          | 🧾 GabayNegosyo              | Website help for accounting students            | Communications                 |
-| Belt          | ☄ Bulalakaw Station          | NASA Space Apps game                            | Flight Computer                |
-| Belt          | 🛰 Satellite Pass Tracker    | Pass predictions with skyfield + Leaflet.js     | Navigation (planned)           |
-| Belt          | 🪐 Orbital Mechanics Simulator | Euler / Verlet / RK4, n-body, Hohmann transfers | Navigation (planned)         |
+| Tier | Project | Software focus | Status |
+| ---- | ------- | -------------- | ------ |
+| 01 · Flagship | 🚌 BUSINA | Jeepney fleet intelligence PWA | 🟢 Active |
+| 01 · Flagship | 🧠 RelAI | AI notification and attention platform | 🟡 Building |
+| 01 · Flagship | 📘 ECE Basics Companion | Interactive ECE review modules | 🟢 Active |
+| 02 · Tools | 🖼 I-ASCII | PNG-to-ASCII converter with desktop and web UI | 🟢 Active |
+| 02 · Tools | 📄 ESG PDF Scorer | Scores company PDFs against an ESG/SDG rubric | 🟡 Building |
+| 02 · Tools | 🧾 GabayNegosyo | Accounting-student support website | 🟢 Active |
+| 02 · Tools | ☄ Bulalakaw Station | NASA Space Apps game | 🟢 Built |
+| 03 · In Design | 🛰 Satellite Pass Tracker | Pass predictions with Skyfield and Leaflet | 🔵 Planned |
+| 03 · In Design | 🪐 Orbital Mechanics Simulator | N-body simulation and Hohmann transfers | 🔵 Planned |
 
 ---
 

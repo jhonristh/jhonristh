@@ -95,7 +95,7 @@ MODE         continuous learning
 <img src="assets/orbit-nav.svg" width="100%" alt="orbital navigation map" />
 </div>
 
-Software work is ordered by product importance: flagship builds first, focused tools second, then work currently entering development. Dates mark when each project joined the journey.
+Software work is ordered by focus: flagship builds, focused tools, game development, then work currently entering development. Dates mark when each project joined the journey.
 
 | Tier | Project | Started | Software focus | Status | Link |
 | ---- | ------- | ------- | -------------- | ------ | ---- |
@@ -105,9 +105,9 @@ Software work is ordered by product importance: flagship builds first, focused t
 | 02 · Tools | I-ASCII | 2026 | PNG-to-ASCII converter with desktop and web UI | Active | [Repository](https://github.com/jhonristh/I-ASCII) |
 | 02 · Tools | ESG PDF Scorer | 2026 | Scores company PDFs against an ESG/SDG rubric | Building | [Repository](https://github.com/jhonristh/ESG-PDF-Scorer) |
 | 02 · Tools | GabayNegosyo | 2026 | Accounting-student support website | Active | [Live site](https://gabay-negosyo.vercel.app/) |
-| 02 · Tools | Bulalakaw Station | 2026 | NASA Space Apps game | Built | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
+| 03 · Game Development | Bulalakaw Station | 2026 | NASA Space Apps game | Built | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
 | 02 · Tools | E-Chest | 2026 | Offline desktop inventory for electronic components | Building | [Repository](https://github.com/jhonristh/EnderShelf) |
-| 03 · In Progress | Auto News Digest | 2026 | Embedded news pages with website checking and digest compilation | Building | Local workspace |
+| 04 · In Progress | Auto News Digest | 2026 | Embedded news pages with website checking and digest compilation | Building | Local workspace |
 
 ---
 

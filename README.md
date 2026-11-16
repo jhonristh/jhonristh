@@ -20,6 +20,8 @@
 ══════════════════════════════════════════════════
 ```
 
+<sub>Electronics engineering student building practical systems at the intersection of software, hardware, and space.</sub>
+
 | FIELD          | VALUE                                                   |
 | -------------- | ------------------------------------------------------- |
 | Commander      | Jargon                                                  |
@@ -27,12 +29,18 @@
 | Current Sector | Electronics Engineering — Space Systems Track           |
 | Launch Year    | 2026                                                    |
 | Mission Time   | T+ ongoing                                              |
-| Comms Link     | [your-website.example](https://your-website.example)    |
+| Comms Link     | [github.com/jhonristh](https://github.com/jhonristh)    |
 | System Status  | 🟢 ONLINE                                               |
 
 ```text
 ══════════════════════════════════════════════════
 ```
+
+</div>
+
+<div align="center">
+
+[Mission dashboard](#-mission-dashboard) · [Current missions](#-current-missions) · [Engineering bay](#-engineering-bay) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
 
 </div>
 
@@ -69,6 +77,14 @@ Five primary builds hold the inner orbits — the closer the orbit, the faster i
 </div>
 
 <div align="center"><sub>Refreshed every 6 hours by <code>.github/workflows/commit-orbit.yml</code>. Green cells are energy output — the more contributions, the brighter the cell.</sub></div>
+
+<details>
+<summary><b>Open contribution signal trail</b></summary>
+<br />
+<div align="center">
+<img src="dist/github-snake-dark.svg" alt="animated contribution snake" />
+</div>
+</details>
 
 ---
 
@@ -304,7 +320,7 @@ NEXT SECTORS
 
 | Channel      | Link                                                    |
 | ------------ | ------------------------------------------------------- |
-| Website      | [your-website.example](https://your-website.example)    |
+| GitHub       | [github.com/jhonristh](https://github.com/jhonristh)    |
 | Repositories | [github.com/jhonristh](https://github.com/jhonristh)    |
 
 ---

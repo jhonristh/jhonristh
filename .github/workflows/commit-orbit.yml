@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch: {}
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   update-orbit-map:
     runs-on: ubuntu-latest
@@ -28,5 +32,8 @@ jobs:
           git config user.name "jan-os-bot"
           git config user.email "actions@github.com"
           git add assets/commit-orbit.svg
-          git diff --staged --quiet || git commit -m "chore: refresh commit orbit map"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh commit orbit map"
+            git pull --rebase
+            git push
+          fi

@@ -195,6 +195,12 @@ CURRENT LEARNING
 
 <sub>Used in RelAI for cross-source notification deduplication.</sub>
 
+### Game Development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+<sub>Used for Bulalakaw Station, the NASA Space Apps game.</sub>
+
 ### Tooling & Delivery
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

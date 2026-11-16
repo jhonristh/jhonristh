@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[Mission dashboard](#-mission-dashboard) · [Current software projects](#current-software-projects) · [Engineering bay](#-engineering-bay) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
+[Mission dashboard](#-mission-dashboard) · [Current software projects](#current-software-projects) · [Software stack](#software-stack) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
 
 </div>
 
@@ -100,14 +100,14 @@ Software work is ordered by product importance: flagship builds first, focused t
 | Tier | Project | Started | Software focus | Status | Link |
 | ---- | ------- | ------- | -------------- | ------ | ---- |
 | 01 · Flagship | BUSINA | 2026 | Jeepney fleet intelligence PWA | Active | [Live site](https://busina-one.vercel.app/) |
-| 01 · Flagship | RelAI | Jul 2026 | AI notification and attention platform | Building | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
-| 01 · Flagship | ECE Basics Companion | Jul 2026 | Interactive ECE review modules | Active | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
-| 02 · Tools | I-ASCII | Jun 2026 | PNG-to-ASCII converter with desktop and web UI | Active | [Repository](https://github.com/jhonristh/I-ASCII) |
+| 01 · Flagship | RelAI | 2026 | AI notification and attention platform | Building | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
+| 01 · Flagship | ECE Basics Companion | 2026 | Interactive ECE review modules | Active | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
+| 02 · Tools | I-ASCII | 2026 | PNG-to-ASCII converter with desktop and web UI | Active | [Repository](https://github.com/jhonristh/I-ASCII) |
 | 02 · Tools | ESG PDF Scorer | 2026 | Scores company PDFs against an ESG/SDG rubric | Building | [Repository](https://github.com/jhonristh/ESG-PDF-Scorer) |
-| 02 · Tools | GabayNegosyo | Sep 2026 | Accounting-student support website | Active | [Live site](https://gabay-negosyo.vercel.app/) |
+| 02 · Tools | GabayNegosyo | 2026 | Accounting-student support website | Active | [Live site](https://gabay-negosyo.vercel.app/) |
 | 02 · Tools | Bulalakaw Station | 2026 | NASA Space Apps game | Built | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
-| 02 · Tools | E-Chest | Nov 2026 | Offline desktop inventory for electronic components | Building | [Repository](https://github.com/jhonristh/EnderShelf) |
-| 03 · In Progress | Auto News Digest | Nov 2026 | Embedded news pages with website checking and digest compilation | Building | Local workspace |
+| 02 · Tools | E-Chest | 2026 | Offline desktop inventory for electronic components | Building | [Repository](https://github.com/jhonristh/EnderShelf) |
+| 03 · In Progress | Auto News Digest | 2026 | Embedded news pages with website checking and digest compilation | Building | Local workspace |
 
 ---
 
@@ -153,46 +153,41 @@ CURRENT LEARNING
 | Project                  | Started  | Status   | Current phase                                           | Live site / source |
 | ------------------------ | -------- | -------- | ------------------------------------------------------- | ------------------ |
 | BUSINA                   | 2026     | Active   | Landing page + PWA infrastructure                       | [Live site](https://busina-one.vercel.app/) |
-| RelAI                    | Jul 2026 | Building | Core pipelines done, adapters next                      | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
-| ECE Basics Companion     | Jul 2026 | Active   | MVP                                                     | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
-| I-ASCII                  | Jun 2026 | Active   | Features + Tkinter/web UI                               | [Repository](https://github.com/jhonristh/I-ASCII) |
+| RelAI                    | 2026     | Building | Core pipelines done, adapters next                      | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
+| ECE Basics Companion     | 2026     | Active   | MVP                                                     | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
+| I-ASCII                  | 2026     | Active   | Features + Tkinter/web UI                               | [Repository](https://github.com/jhonristh/I-ASCII) |
 | ESG PDF Scorer           | 2026     | Building | CustomTkinter prototype                                 | [Repository](https://github.com/jhonristh/ESG-PDF-Scorer) |
-| GabayNegosyo             | Sep 2026 | Active   | Website help for accounting students                    | [Live site](https://gabay-negosyo.vercel.app/) |
+| GabayNegosyo             | 2026     | Active   | Website help for accounting students                    | [Live site](https://gabay-negosyo.vercel.app/) |
 | Bulalakaw Station        | 2026     | Built    | NASA Space Apps game                                    | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
-| E-Chest                  | Nov 2026 | Building | Offline electronic-component inventory desktop app       | [Repository](https://github.com/jhonristh/EnderShelf) |
-| Auto News Digest         | Nov 2026 | Building | Embedded news pages, website checker, and digest compiler | Local workspace |
+| E-Chest                  | 2026     | Building | Offline electronic-component inventory desktop app       | [Repository](https://github.com/jhonristh/EnderShelf) |
+| Auto News Digest         | 2026     | Building | Embedded news pages, website checker, and digest compiler | Local workspace |
 
 ---
 
-## ⚙ Engineering Bay
+## Software Stack
 
 ```text
 ════════════════════════════════════════════
-  ENGINEERING BAY — SYSTEM INVENTORY
+  SOFTWARE STACK — ACTIVE TOOLSET
 ════════════════════════════════════════════
 ```
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Application & Web
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Workbox](https://img.shields.io/badge/Workbox-FF6F00?style=for-the-badge)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3670A0?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Skyfield](https://img.shields.io/badge/Skyfield-0B3D91?style=for-the-badge)
-![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge)
-![HyperFrames](https://img.shields.io/badge/HyperFrames-444444?style=for-the-badge)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI / ML
 
@@ -200,22 +195,16 @@ CURRENT LEARNING
 
 <sub>Used in RelAI for cross-source notification deduplication.</sub>
 
-### Hardware & EE Tools
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![SIMetrix](https://img.shields.io/badge/SIMetrix-00A19C?style=for-the-badge)
-![Multisim](https://img.shields.io/badge/Multisim-00A19C?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-
-### Software & Dev Environment
+### Tooling & Delivery
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge)
 
-Coursework spans physics, calculus, material science, basic electronics, computer-aided drafting, and circuit theory — benchmarked against Young & Freedman, Boylestad, and Callister.
+<sub>Current stack reflects active web/PWA, desktop-tool, AI, and deployment work.</sub>
 
 ---
 

@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[Mission dashboard](#-mission-dashboard) · [Current missions](#-current-missions) · [Engineering bay](#-engineering-bay) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
+[Mission dashboard](#-mission-dashboard) · [Current software projects](#current-software-projects) · [Engineering bay](#-engineering-bay) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
 
 </div>
 
@@ -89,7 +89,7 @@ MODE         continuous learning
 
 ---
 
-## 🛰 Software Mission Navigation
+## Software Mission Navigation
 
 <div align="center">
 <img src="assets/orbit-nav.svg" width="100%" alt="orbital navigation map" />
@@ -99,15 +99,15 @@ Software work is ordered by product importance: flagship builds first, focused t
 
 | Tier | Project | Software focus | Status |
 | ---- | ------- | -------------- | ------ |
-| 01 · Flagship | 🚌 BUSINA | Jeepney fleet intelligence PWA | 🟢 Active |
-| 01 · Flagship | 🧠 RelAI | AI notification and attention platform | 🟡 Building |
-| 01 · Flagship | 📘 ECE Basics Companion | Interactive ECE review modules | 🟢 Active |
-| 02 · Tools | 🖼 I-ASCII | PNG-to-ASCII converter with desktop and web UI | 🟢 Active |
-| 02 · Tools | 📄 ESG PDF Scorer | Scores company PDFs against an ESG/SDG rubric | 🟡 Building |
-| 02 · Tools | 🧾 GabayNegosyo | Accounting-student support website | 🟢 Active |
-| 02 · Tools | ☄ Bulalakaw Station | NASA Space Apps game | 🟢 Built |
-| 03 · In Design | 🛰 Satellite Pass Tracker | Pass predictions with Skyfield and Leaflet | 🔵 Planned |
-| 03 · In Design | 🪐 Orbital Mechanics Simulator | N-body simulation and Hohmann transfers | 🔵 Planned |
+| 01 · Flagship | BUSINA | Jeepney fleet intelligence PWA | Active |
+| 01 · Flagship | RelAI | AI notification and attention platform | Building |
+| 01 · Flagship | ECE Basics Companion | Interactive ECE review modules | Active |
+| 02 · Tools | I-ASCII | PNG-to-ASCII converter with desktop and web UI | Active |
+| 02 · Tools | ESG PDF Scorer | Scores company PDFs against an ESG/SDG rubric | Building |
+| 02 · Tools | GabayNegosyo | Accounting-student support website | Active |
+| 02 · Tools | Bulalakaw Station | NASA Space Apps game | Built |
+| 02 · Tools | E-Chest | Offline desktop inventory for electronic components | Building |
+| 03 · In Progress | Auto News Digest | Embedded news pages with website checking and digest compilation | Building |
 
 ---
 
@@ -148,21 +148,19 @@ CURRENT LEARNING
 
 ---
 
-## 🚀 Current Missions
+## Current Software Projects
 
-| Mission                  | Status      | Current phase                        | Repository                                                                    |
-| ------------------------ | ----------- | ------------------------------------ | ----------------------------------------------------------------------------- |
-| BUSINA                   | 🟢 Active   | Landing page + PWA infrastructure    | [BUSINA](https://github.com/jhonristh/BUSINA)                                 |
-| RelAI                    | 🟡 Building | Core pipelines done, adapters next   | [RelAI](https://github.com/jhonristh/RelAI)                                   |
-| TRIHALOCEN               | 🟡 Research | Reactor system designed              | [TRIHALOCEN](https://github.com/jhonristh/TRIHALOCEN)                         |
-| ECE Basics Companion     | 🟢 Active   | MVP                                  | [ece-basics-companion](https://github.com/jhonristh/ece-basics-companion)     |
-| I-ASCII                  | 🟢 Active   | Features + Tkinter/web UI            | [I-ASCII](https://github.com/jhonristh/I-ASCII)                               |
-| AM Receiver              | 🟡 Building | Demodulator PCB routing              | [AM-Receiver](https://github.com/jhonristh/AM-Receiver)                       |
-| ESG PDF Scorer           | 🟡 Building | CustomTkinter prototype              | [ESG-PDF-Scorer](https://github.com/jhonristh/ESG-PDF-Scorer)                 |
-| GabayNegosyo             | 🟢 Active   | Website help for accounting students | [GabayNegosyo](https://github.com/jhonristh/GabayNegosyo)                     |
-| Bulalakaw Station        | 🟢 Built    | NASA Space Apps game                 | [Bulalakaw-Station](https://github.com/jhonristh/Bulalakaw-Station)           |
-| Satellite Pass Tracker   | 🔵 Planned  | Design stage                         | [Satellite-Pass-Tracker](https://github.com/jhonristh/Satellite-Pass-Tracker) |
-| Orbital Mechanics Simulator | 🔵 Planned | Design stage                       | [Orbital-Mechanics-Simulator](https://github.com/jhonristh/Orbital-Mechanics-Simulator) |
+| Project                  | Status   | Current phase                                           | Repository                                                        |
+| ------------------------ | -------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| BUSINA                   | Active   | Landing page + PWA infrastructure                       | [BUSINA](https://github.com/jhonristh/BUSINA)                     |
+| RelAI                    | Building | Core pipelines done, adapters next                      | [RelAI](https://github.com/jhonristh/RelAI)                       |
+| ECE Basics Companion     | Active   | MVP                                                     | [ece-basics-companion](https://github.com/jhonristh/ece-basics-companion) |
+| I-ASCII                  | Active   | Features + Tkinter/web UI                               | [I-ASCII](https://github.com/jhonristh/I-ASCII)                   |
+| ESG PDF Scorer           | Building | CustomTkinter prototype                                 | [ESG-PDF-Scorer](https://github.com/jhonristh/ESG-PDF-Scorer)     |
+| GabayNegosyo             | Active   | Website help for accounting students                    | [GabayNegosyo](https://github.com/jhonristh/GabayNegosyo)         |
+| Bulalakaw Station        | Built    | NASA Space Apps game                                    | [Bulalakaw-Station](https://github.com/jhonristh/Bulalakaw-Station) |
+| E-Chest                  | Building | Offline electronic-component inventory desktop app       | Local workspace                                                   |
+| Auto News Digest         | Building | Embedded news pages, website checker, and digest compiler | Local workspace                                                 |
 
 ---
 

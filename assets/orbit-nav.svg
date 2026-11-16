@@ -51,9 +51,9 @@
   <text x="610" y="150" class="label">01 · FLAGSHIP</text>
   <text x="610" y="170" class="sublabel">BUSINA · RelAI · ECE Basics</text>
   <text x="610" y="210" class="label">02 · TOOLS</text>
-  <text x="610" y="230" class="sublabel">I-ASCII · ESG · GabayNegosyo · Bulalakaw</text>
-  <text x="610" y="270" class="label">03 · IN DESIGN</text>
-  <text x="610" y="290" class="sublabel">Satellite Tracker · Orbital Simulator</text>
+  <text x="610" y="230" class="sublabel">I-ASCII · ESG · GabayNegosyo · E-Chest</text>
+  <text x="610" y="270" class="label">03 · IN PROGRESS</text>
+  <text x="610" y="290" class="sublabel">Auto News Digest</text>
 
   <text x="450" y="395" text-anchor="middle" class="sublabel">SOFTWARE MISSION NAVIGATION — PRODUCT PRIORITY MAP</text>
 </svg>

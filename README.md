@@ -46,6 +46,49 @@
 
 ---
 
+## ✦ Contribution Showcase
+
+<div align="center">
+
+```text
+LIVE CONTRIBUTION TELEMETRY · LAST 365 DAYS
+```
+
+<img src="assets/commit-orbit.svg" width="100%" alt="commit orbit map — contribution energy grid" />
+
+<sub>◼ standby &nbsp;·&nbsp; 🟩 signal detected &nbsp;·&nbsp; 🟩🟩🟩 peak output &nbsp;·&nbsp; refresh cycle: 6 hours</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+```text
+CONTRIBUTION ARRAY
+────────────────────────────
+SOURCE       GitHub activity
+VISUALIZER   JAN-OS orbit map
+UPLINK       automated refresh
+MODE         continuous learning
+────────────────────────────
+```
+
+</td>
+<td width="46%" valign="top" align="center">
+
+<sub>CONTRIBUTION SIGNAL TRAIL</sub>
+<br /><br />
+<img src="dist/github-snake-dark.svg" width="100%" alt="animated contribution snake" />
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Every green cell is a shipped idea, experiment, or improvement. The telemetry updates itself—no manual status reports required.</sub></div>
+
+---
+
 ## 🛰 Solar System Navigation
 
 <div align="center">
@@ -67,24 +110,6 @@ Five primary builds hold the inner orbits — the closer the orbit, the faster i
 | Belt          | ☄ Bulalakaw Station          | NASA Space Apps game                            | Flight Computer                |
 | Belt          | 🛰 Satellite Pass Tracker    | Pass predictions with skyfield + Leaflet.js     | Navigation (planned)           |
 | Belt          | 🪐 Orbital Mechanics Simulator | Euler / Verlet / RK4, n-body, Hohmann transfers | Navigation (planned)         |
-
----
-
-## 📡 Commit Orbit Map
-
-<div align="center">
-<img src="assets/commit-orbit.svg" width="100%" alt="commit orbit map — contribution energy grid" />
-</div>
-
-<div align="center"><sub>Refreshed every 6 hours by <code>.github/workflows/commit-orbit.yml</code>. Green cells are energy output — the more contributions, the brighter the cell.</sub></div>
-
-<details>
-<summary><b>Open contribution signal trail</b></summary>
-<br />
-<div align="center">
-<img src="dist/github-snake-dark.svg" alt="animated contribution snake" />
-</div>
-</details>
 
 ---
 

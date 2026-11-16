@@ -95,19 +95,19 @@ MODE         continuous learning
 <img src="assets/orbit-nav.svg" width="100%" alt="orbital navigation map" />
 </div>
 
-Software work is ordered by product importance: flagship builds first, focused tools second, then planned navigation experiments.
+Software work is ordered by product importance: flagship builds first, focused tools second, then work currently entering development. Dates mark when each project joined the journey.
 
-| Tier | Project | Software focus | Status |
-| ---- | ------- | -------------- | ------ |
-| 01 · Flagship | BUSINA | Jeepney fleet intelligence PWA | Active |
-| 01 · Flagship | RelAI | AI notification and attention platform | Building |
-| 01 · Flagship | ECE Basics Companion | Interactive ECE review modules | Active |
-| 02 · Tools | I-ASCII | PNG-to-ASCII converter with desktop and web UI | Active |
-| 02 · Tools | ESG PDF Scorer | Scores company PDFs against an ESG/SDG rubric | Building |
-| 02 · Tools | GabayNegosyo | Accounting-student support website | Active |
-| 02 · Tools | Bulalakaw Station | NASA Space Apps game | Built |
-| 02 · Tools | E-Chest | Offline desktop inventory for electronic components | Building |
-| 03 · In Progress | Auto News Digest | Embedded news pages with website checking and digest compilation | Building |
+| Tier | Project | Started | Software focus | Status | Link |
+| ---- | ------- | ------- | -------------- | ------ | ---- |
+| 01 · Flagship | BUSINA | 2026 | Jeepney fleet intelligence PWA | Active | [Live site](https://busina-one.vercel.app/) |
+| 01 · Flagship | RelAI | Jul 2026 | AI notification and attention platform | Building | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
+| 01 · Flagship | ECE Basics Companion | Jul 2026 | Interactive ECE review modules | Active | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
+| 02 · Tools | I-ASCII | Jun 2026 | PNG-to-ASCII converter with desktop and web UI | Active | [Repository](https://github.com/jhonristh/I-ASCII) |
+| 02 · Tools | ESG PDF Scorer | 2026 | Scores company PDFs against an ESG/SDG rubric | Building | [Repository](https://github.com/jhonristh/ESG-PDF-Scorer) |
+| 02 · Tools | GabayNegosyo | Sep 2026 | Accounting-student support website | Active | [Live site](https://gabay-negosyo.vercel.app/) |
+| 02 · Tools | Bulalakaw Station | 2026 | NASA Space Apps game | Built | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
+| 02 · Tools | E-Chest | Nov 2026 | Offline desktop inventory for electronic components | Building | [Repository](https://github.com/jhonristh/EnderShelf) |
+| 03 · In Progress | Auto News Digest | Nov 2026 | Embedded news pages with website checking and digest compilation | Building | Local workspace |
 
 ---
 
@@ -150,17 +150,17 @@ CURRENT LEARNING
 
 ## Current Software Projects
 
-| Project                  | Status   | Current phase                                           | Repository                                                        |
-| ------------------------ | -------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
-| BUSINA                   | Active   | Landing page + PWA infrastructure                       | [BUSINA](https://github.com/jhonristh/BUSINA)                     |
-| RelAI                    | Building | Core pipelines done, adapters next                      | [RelAI](https://github.com/jhonristh/RelAI)                       |
-| ECE Basics Companion     | Active   | MVP                                                     | [ece-basics-companion](https://github.com/jhonristh/ece-basics-companion) |
-| I-ASCII                  | Active   | Features + Tkinter/web UI                               | [I-ASCII](https://github.com/jhonristh/I-ASCII)                   |
-| ESG PDF Scorer           | Building | CustomTkinter prototype                                 | [ESG-PDF-Scorer](https://github.com/jhonristh/ESG-PDF-Scorer)     |
-| GabayNegosyo             | Active   | Website help for accounting students                    | [GabayNegosyo](https://github.com/jhonristh/GabayNegosyo)         |
-| Bulalakaw Station        | Built    | NASA Space Apps game                                    | [Bulalakaw-Station](https://github.com/jhonristh/Bulalakaw-Station) |
-| E-Chest                  | Building | Offline electronic-component inventory desktop app       | Local workspace                                                   |
-| Auto News Digest         | Building | Embedded news pages, website checker, and digest compiler | Local workspace                                                 |
+| Project                  | Started  | Status   | Current phase                                           | Live site / source |
+| ------------------------ | -------- | -------- | ------------------------------------------------------- | ------------------ |
+| BUSINA                   | 2026     | Active   | Landing page + PWA infrastructure                       | [Live site](https://busina-one.vercel.app/) |
+| RelAI                    | Jul 2026 | Building | Core pipelines done, adapters next                      | [Repository](https://github.com/jhonristh/RelAI-Unified_Inbox) |
+| ECE Basics Companion     | Jul 2026 | Active   | MVP                                                     | [Repository](https://github.com/jhonristh/ECE-Basics-Comp-Onion-) |
+| I-ASCII                  | Jun 2026 | Active   | Features + Tkinter/web UI                               | [Repository](https://github.com/jhonristh/I-ASCII) |
+| ESG PDF Scorer           | 2026     | Building | CustomTkinter prototype                                 | [Repository](https://github.com/jhonristh/ESG-PDF-Scorer) |
+| GabayNegosyo             | Sep 2026 | Active   | Website help for accounting students                    | [Live site](https://gabay-negosyo.vercel.app/) |
+| Bulalakaw Station        | 2026     | Built    | NASA Space Apps game                                    | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
+| E-Chest                  | Nov 2026 | Building | Offline electronic-component inventory desktop app       | [Repository](https://github.com/jhonristh/EnderShelf) |
+| Auto News Digest         | Nov 2026 | Building | Embedded news pages, website checker, and digest compiler | Local workspace |
 
 ---
 

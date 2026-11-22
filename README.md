@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[Mission dashboard](#-mission-dashboard) · [Current software projects](#current-software-projects) · [Software stack](#software-stack) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
+[Mission dashboard](#-mission-dashboard) · [Current software projects](#current-software-projects) · [Hardware projects](#hardware--embedded-projects) · [Software stack](#software-stack) · [Roadmap](#-galactic-roadmap) · [Open comms](#-open-comms)
 
 </div>
 
@@ -161,6 +161,21 @@ CURRENT LEARNING
 | Bulalakaw Station        | 2026     | Built    | NASA Space Apps game                                    | [Live site](https://bulalakaw-spaceapps-hackathon.github.io/Integration/) |
 | E-Chest                  | 2026     | Building | Offline electronic-component inventory desktop app       | [Repository](https://github.com/jhonristh/EnderShelf) |
 | Auto News Digest         | 2026     | Building | Embedded news pages, website checker, and digest compiler | Local workspace |
+
+---
+
+## Hardware & Embedded Projects
+
+### Arduino-Powered Tekken Controller
+
+Built a DIY arcade-style controller for playing Tekken on PPSSPP. An Arduino Uno reads an analog joystick and physical buttons, then sends their state over USB serial to a Python bridge that converts the controls into keyboard input.
+
+- **Status:** Functional prototype, tested with PPSSPP and Tekken.
+- **Controls:** Eight-direction movement, four attack buttons, L/R, Start/Select, emulator menu, quick-save, and quick-load.
+- **Engineering:** Arduino C++, analog and digital inputs, internal pull-up resistors, bitwise state encoding, USB serial communication, and Python input-event handling.
+- **Input handling:** Simultaneous movement and attacks, held-button tracking, and automatic key release after a serial timeout.
+
+[Project repository (private)](https://github.com/jhonristh/Tekken)
 
 ---
 
